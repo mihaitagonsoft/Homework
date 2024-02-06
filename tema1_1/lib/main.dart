@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
     // They will be explained in the next sections
     // In this course, you will, of course, not just use them a lot but
     // also learn about many other widgets!
+    //hello
     return MaterialApp(
       title: 'Flutter First App',
       theme: ThemeData(useMaterial3: true),
